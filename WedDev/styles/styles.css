@@ -11,9 +11,12 @@ body {
 
     text-align: center;
 
-    background-color:gray;
+    background-color:lightpink;
+
+    
 
 }
+
 
 img {
     max-width: 100%;
@@ -36,8 +39,8 @@ img {
 /*Header*/
 header { 
     margin-top: 1em;
-    height: 175px;
 }
+
 
 nav ul {
     margin: 0;
